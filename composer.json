@@ -1,0 +1,17 @@
+{
+    "name": "jesuzweq/curl-client",
+    "version": "1.0.0",
+    "description": "Curl Client Library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zweqxrd",
+            "email": "babaproxdd123@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Jesuzweq\\Client\\": "src/"
+        }
+    }
+}
